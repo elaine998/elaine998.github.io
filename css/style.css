@@ -1,0 +1,14 @@
+body{background-image: url("/img/bg.jpg");background-repeat: no-repeat;background-attachment: fixed;background-size: cover;}
+a{color: rgb(37, 4, 221);}
+a:hover{color: green; font-size: 20px;}
+a:visited{color: gray;}
+h1{color: blueviolet; font-size: 30px;}
+.same{color: brown;font-size: 20px;font-weight: bold;}
+.textcenter{text-align: center;}
+.textleft{text-align: left;}
+.textright{text-align: right;}
+.lineheight{line-height: 2;}
+.letterspacing{letter-spacing: 3px;}
+img{opacity: 0.5;border-radius: 18px;}
+img:hover{border: thick solid brown;opacity: 1;}
+#distance{padding-left: 15px;margin: 15px;}
